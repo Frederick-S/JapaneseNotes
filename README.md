@@ -1,4 +1,3 @@
-JapaneseNotes
-=============
+# Japanese Notes
 
 新标日
