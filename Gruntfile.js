@@ -47,7 +47,7 @@ module.exports = function (grunt) {
         'http-server'
     ]);
     grunt.registerTask('publish', [
-        'gitbook',
+        //'gitbook',
         'gh-pages',
         'clean'
     ]);
