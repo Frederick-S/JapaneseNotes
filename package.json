@@ -1,0 +1,20 @@
+{
+    "name": "JapaneseNotes",
+    "version": "0.0.1",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Frederick-S/JapaneseNotes.git"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-gitbook": "0.3.0",
+        "grunt-gh-pages": "0.9.1",
+        "grunt-contrib-clean": "~0.5.0",
+        "grunt-http-server": "0.0.4"
+    },
+    "peerDependencies": {
+        "grunt": "~0.4.1"
+    }
+}
