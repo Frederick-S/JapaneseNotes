@@ -6,9 +6,6 @@
     "type": "git",
     "url": "https://github.com/Frederick-S/JapaneseNotes.git"
   },
-  "dependencies": {
-    "gitbook-plugin-swiftype": "0.0.4"
-  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-gh-pages": "0.9.1"
