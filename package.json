@@ -1,17 +1,16 @@
 {
-    "name": "JapaneseNotes",
-    "version": "0.0.1",
-    "description": "",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Frederick-S/JapaneseNotes.git"
-    },
-    "dependencies": {},
-    "devDependencies": {
-        "grunt": "~0.4.1",
-        "grunt-gh-pages": "0.9.1"
-    },
-    "peerDependencies": {
-        "grunt": "~0.4.1"
-    }
+  "name": "JapaneseNotes",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frederick-S/JapaneseNotes.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-gh-pages": "0.9.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  }
 }
