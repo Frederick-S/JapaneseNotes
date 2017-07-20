@@ -8,6 +8,6 @@
   },
   "devDependencies": {
     "grunt": "~1.0.1",
-    "grunt-gh-pages": "1.1.0"
+    "grunt-gh-pages": "2.0.0"
   }
 }
